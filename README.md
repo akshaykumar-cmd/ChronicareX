@@ -43,4 +43,4 @@ It is an educational prototype only. Always consult a healthcare professional.
 - American Heart Association (AHA)
 
 ## Status
-Prototype submission for Ignite AI Hackathon
+Prototype submission for AI Ignite 2025 Hackathon
